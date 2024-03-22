@@ -4,7 +4,7 @@ objects = [];
 alarm = "";
 
 function preload() {
-    img = loadImage('dog_cat.jpg');
+    img = loadImage('g1.avif');
 }
 
 function setup() {
